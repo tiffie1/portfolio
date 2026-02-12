@@ -1,2 +1,3 @@
-# portfolio
-frankie.github.io/portfolio
+### Education
+Bachelors Degree
+- Computer science
